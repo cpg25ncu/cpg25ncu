@@ -1,6 +1,6 @@
-# 👋 Hi there, Tongyao here!
+# 👋 Hi there, Portunid here!
 
-I'm Tongyao Liu, currently pursuing an MTech in Software Engineering at the National University of Singapore (NUS). I enjoy building practical software, from full-stack web applications to interactive games, and exploring how good architecture, testing, and reliable delivery bring a system together.
+I'm Portunid, currently pursuing an MTech in Software Engineering at the National University of Singapore (NUS). I enjoy building practical software, from full-stack web applications to interactive games, and exploring how good architecture, testing, and reliable delivery bring a system together.
 
 ## 🚀 Skills
 - **Languages:** Java, TypeScript, JavaScript, C#, SQL, HTML/CSS
