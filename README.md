@@ -15,13 +15,9 @@ I'm Portunid, currently pursuing an MTech in Software Engineering at the Nationa
 - Developing practical software through team projects, with a focus on architecture, integration, testing, and deployment.
 - Strengthening my skills in building maintainable systems from requirements through delivery.
 
-## 💼 Experience
-- **Jun 2025 – Aug 2025:** Information Management Centre, Sinopec East China Oil & Gas Company — supported software testing, API integration, and log analysis for an enterprise system integration platform.
-- **Jul 2024 – Aug 2024:** Audit Department, Sinopec Shengli Oilfield Company — supported information systems auditing and role-based access control reviews.
-
 ## 📚 Education
-- **MTech in Software Engineering:** National University of Singapore (NUS) — in progress.
-- **Bachelor's degree:** University of East Anglia (UEA), United Kingdom.
+- **MTech in Software Engineering:** National University of Singapore (NUS), Singapore.
+- **Bachelor's degree in Computing Science, First Class Honours:** University of East Anglia (UEA), United Kingdom.
 
 ## 🔗 Projects
 - 🛠️ [**Shared Equipment Reservation and Maintenance System (SERMS)**](https://github.com/cpg25ncu/shared-equipment-reservation-and-maintenance-system) — A team project covering equipment reservations, approvals, checkout, returns, and maintenance, with role-based access control. Built with React, TypeScript, Spring Boot, and PostgreSQL. [Live demo](https://serms.midas.cyou)
